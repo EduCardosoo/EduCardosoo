@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo Fernando Cardoso 
 
-- 🌱 Estudando JavaScript/React e Java
+- 🌱 Estudando JavaScript/React,Node e Java
 - 🎓 Cursando ADS 3º Semestre
 - 🖥️ Procurando Emprego
 
