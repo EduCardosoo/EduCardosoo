@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eduardo Fernando
+# 👨‍💻 Eduardo Fernando
 
 **`Desenvolvedor Back-end`**
 
